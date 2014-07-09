@@ -19,5 +19,5 @@ To reproduce the error, do 1-3 above with different spring-boot versions. You ca
     * bootVersion = "1.1.4.RELEASE"
     * bootVersion = "1.1.5.BUILD-SNAPSHOT"
 
-2. When running with this version the encoding is right
+2. When running with this version the encoding is OK
     * bootVersion = "1.0.2.RELEASE"
